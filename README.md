@@ -18,3 +18,19 @@ change.
 5. Determine draft system
 6. Determine scoring system
 7. Play game
+
+***
+
+## Diary
+### Day one ~ 1 Hour
+Scaffolded basic project, initialised git and virtual environment.
+Installed nba_api.
+Began testing the endpoints.
+
+ToDo:
+* Batch download all player splits from API
+* Store as CSV file
+* This is to reduce the amount of API calls needed
+* Serve as local database of data
+* Will introduce an option to download latest stats or use saved
+
