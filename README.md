@@ -22,6 +22,14 @@ change.
 ***
 
 ## Diary
+### Day two - 2.5 Hours
+Got basic dictionary to csv system working using nba api endpoints.
+Had to use ChatGPT for guidance on converting the 2 separate lists as a dictionary that pandas could use.
+
+TODO: 
+* Decide on a simple rating system and way to value the players
+* Tidy up unnecessary testing files from project
+
 ### Day one ~ 1 Hour
 Scaffolded basic project, initialised git and virtual environment.
 Installed nba_api.
